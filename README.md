@@ -1,4 +1,7 @@
 # Smart-Cities-Crime-Data-Chicago
+
+# Dashboard screenshot is attached in report. Its coded in Python
+
 -	Examined 16 years of crime instances of Chicago in a team of 4 by employing machine learning techniques like Linear Discriminant Analysis, Logistic Regression, Multiple Linear Regression using R
 -	Built an interactive visualization dashboard using Python and R which reveals geographical, temporal and crime-type information that allows security to assign the forces in a supervised way
 using Python Pandas and Ipywidgets
